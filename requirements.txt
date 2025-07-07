@@ -9,5 +9,5 @@ peft
 trl 
 accelerate==1.8.1
 bitsandbytes
-wandb==0.19.11
-#weave==0.51.47
+wandb==0.21.0
+weave==0.51.54
