@@ -1,0 +1,13 @@
+jupyterlab==4.2.5
+transformers==4.52.1
+python-dotenv
+torch
+sentencepiece
+huggingface_hub
+datasets 
+peft 
+trl 
+accelerate==1.8.1
+bitsandbytes
+wandb==0.19.11
+#weave==0.51.47
